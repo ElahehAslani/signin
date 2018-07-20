@@ -76,6 +76,25 @@ ul {
     border: 1px solid #FBF9F9;
 }
 
+.form-container input[type=password] {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid #FBF9F9;
+}
+
+.username {
+    width: 179px;
+    height: 30px;
+    display: inline-block;
+}
+
+.pasword {
+    width: 179px;
+    height: 30px;
+    display: inline-block;
+}
+
 .register-span {
     color: #0B0808;
     font-family: ralway;
