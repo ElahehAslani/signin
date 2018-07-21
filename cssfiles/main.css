@@ -183,6 +183,9 @@ ul {
     .form-container input[type=text] {
         width: 240px;
     }
+    .form-container input[type=password] {
+        width: 240px;
+    }
     .form-container input[type=submit] {
         width: 240px;
     }
@@ -215,6 +218,9 @@ ul {
     .form-container input[type=text] {
         width: 210px;
     }
+    .form-container input[type=password] {
+        width: 210px;
+    }
     .form-container input[type=submit] {
         width: 210px;
     }
@@ -222,6 +228,9 @@ ul {
 
 @media screen and (max-width:285px) {
     .form-container input[type=text] {
+        width: 190px;
+    }
+    .form-container input[type=password] {
         width: 190px;
     }
     .form-container input[type=submit] {
